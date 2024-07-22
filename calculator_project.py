@@ -52,5 +52,4 @@ entry.pack(anchor=NW,padx=6,pady=6)
 button = ttk.Button(text="Result",command=get_entry)
 button.pack(anchor=NW,padx=6,pady=6)
 
-
 root.mainloop()
